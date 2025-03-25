@@ -19,7 +19,7 @@ fn main() {
 
         let secret_number = thread_rng().gen_range(1..=5);
 
-        hello_hello();
+        //hello_hello();
         println!("You guessed {}", guess);
 
         println!("The secret number is {}", secret_number);
