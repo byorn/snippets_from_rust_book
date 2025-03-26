@@ -1,5 +1,6 @@
 mod ownership_and_functions;
 mod return_values_and_scope;
+mod borrow_checker_rules;
 
 fn main() {
     println!("Hello, world!");
@@ -32,3 +33,4 @@ fn ownership2(){
 fn ownership3(){
     return_values_and_scope::return_values_and_scope();
 }
+
