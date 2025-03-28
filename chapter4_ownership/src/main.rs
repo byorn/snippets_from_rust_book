@@ -4,6 +4,7 @@ mod borrow_checker_rules;
 
 fn main() {
     println!("Hello, world!");
+ slice();
 }
 
 fn ownership1(){
@@ -32,5 +33,13 @@ fn ownership2(){
 
 fn ownership3(){
     return_values_and_scope::return_values_and_scope();
+}
+
+fn borrow_checker(){
+    borrow_checker_rules::mutable_references();
+}
+
+fn slice(){
+    borrow_checker_rules::the_slice_type();
 }
 
