@@ -24,7 +24,7 @@ pub fn mutable_references(){
 
     let r1 = &s; // no problem
     let r2 = &s; // no problem
-    let r3 = &mut s; // BIG PROBLEM - will fail
+    let r3 = &mut s;
 
     // println!("{}, {}, and {}", r1, r2, r3); -- will fail
     // println!("{}", r1); -- will fail

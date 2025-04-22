@@ -1,0 +1,1 @@
+/Users/byornjohndesilva/Projects/Rust/rust_book/chap5_and_6/target/debug/chap5_and_6: /Users/byornjohndesilva/Projects/Rust/rust_book/chap5_and_6/src/main.rs /Users/byornjohndesilva/Projects/Rust/rust_book/chap5_and_6/src/model/mod.rs /Users/byornjohndesilva/Projects/Rust/rust_book/chap5_and_6/src/model/user.rs
