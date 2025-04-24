@@ -8,5 +8,6 @@ Progress
 will be trying out code snippets in excercism.
 
 + Finished Chapter 5 - Structs
+* Finished Chapter 6 - match and Option enums
 
-next would be chapter 5 and then to excercism
+next exercism
