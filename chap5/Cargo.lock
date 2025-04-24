@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "chap5_and_6"
+name = "chap5"
 version = "0.1.0"
