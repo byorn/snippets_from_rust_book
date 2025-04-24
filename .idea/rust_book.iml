@@ -7,10 +7,12 @@
       <sourceFolder url="file://$MODULE_DIR$/hello_cargo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter4_ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chap5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap6_enums/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter4_ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/chap5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chap6_enums/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
