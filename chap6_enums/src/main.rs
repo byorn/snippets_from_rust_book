@@ -1,5 +1,5 @@
 mod enums;
-
+use enums::*;
 enum IpAddrKind {
     V4(String),
     V6(String),
@@ -77,12 +77,12 @@ fn main() {
 }
 
 //handling enum types with match expression
-fn value_in_cents(coin: enums::Coin) -> u8 {
+fn value_in_cents(coin: Coin) -> u8 {
     match coin {
-        enums::Coin::Penny => 1,
-        enums::Coin::Nickel => 5,
-        enums::Coin::Dime => 10,
-        enums::Coin::Quarter(state) => {
+        Coin::Penny => 1,
+        Coin::Nickel => 5,
+        Coin::Dime => 10,
+        Coin::Quarter(state) => {
             println!("State quarter from {state:?}!");
             25
         }
