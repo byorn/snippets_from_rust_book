@@ -10,4 +10,7 @@ will be trying out code snippets in excercism.
 + Finished Chapter 5 - Structs
 * Finished Chapter 6 - match and Option enums
 
-next exercism
+Todo
+-----
+Read chapter 7 - 9
+parallely do excercism space-age
