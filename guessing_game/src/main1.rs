@@ -6,3 +6,4 @@ pub fn some_function(){
         Err(_) => println!("Failed to read line")
     }
 }
+

@@ -4,7 +4,7 @@ mod borrow_checker_rules;
 
 fn main() {
     println!("Hello, world!");
-borrow_checker();
+    ownership3();
 }
 
 fn ownership1(){

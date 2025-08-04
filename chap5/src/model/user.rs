@@ -6,7 +6,7 @@ pub struct User {
 
 impl User {
 
-    //associated function
+    //method
     pub fn print_user_who_is_inactive(&self, status: StatusInactive) {
         println!("user  {:?} is {:?}", self, status);
     }
