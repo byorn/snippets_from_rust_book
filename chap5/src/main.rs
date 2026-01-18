@@ -52,7 +52,7 @@ fn method_on_struct(){
     };
 let status_inactive = user::StatusInactive;
     u1.print_user_who_is_inactive(status_inactive);
-
+    
     //calling an associated function as a new construction
 let byorn = user::User::new();
     println!("byorn is {:?}", byorn);

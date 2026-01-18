@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/chap6_enums/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chap7/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chap8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap9/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter4_ownership/target" />
@@ -17,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/chap6_enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/chap7/target" />
       <excludeFolder url="file://$MODULE_DIR$/chap8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chap9/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
